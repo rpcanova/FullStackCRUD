@@ -30,10 +30,10 @@ Este projeto é um sistema simples de CRUD (Create, Read, Update, Delete) de usu
 
 ### Backend
 1. Clone o repositório:
-`git clone https://github.com/seu-usuario/seu-repositorio.git`
+`git clone https://github.com/rpcanova/FullStackCRUD.git`
 
 2. Navegue até o diretório do projeto backend:
-`cd seu-repositorio/backend`
+`cd FullStackCRUD/fullstack-backend`
 
 3. Configure o arquivo application.properties com as informações do seu banco de dados MySQL:
 `spring.datasource.url=jdbc:mysql://localhost:3306/seu_banco_de_dados
@@ -46,7 +46,7 @@ spring.jpa.hibernate.ddl-auto=update`
 
 ### Frontend
 1. Navegue até o diretório do projeto frontend:
-`cd ../frontend`
+`cd ../fullstack-frontend`
 
 2. Instale as dependências do projeto:
 `npm install`
@@ -94,10 +94,10 @@ This project is a simple CRUD (Create, Read, Update, Delete) system for users, d
 
 ### Backend
 1. Clone the repository:
-`git clone https://github.com/your-username/your-repository.git`
+`git clone https://github.com/rpcanova/FullStackCRUD.git`
 
 2.Navigate to the backend project directory:
-`cd your-repository/backend`
+`cd FullStackCRUD/fullstack-backend`
 
 3. Configure the application.properties file with your MySQL database information:
 `spring.datasource.url=jdbc:mysql://localhost:3306/your_database
@@ -110,7 +110,7 @@ spring.jpa.hibernate.ddl-auto=update`
 
 ### Frontend
 1. Navigate to the frontend project directory
-`cd ../frontend`
+`cd ../fullstack-frontend`
 
 2. Install the project dependencies:
 `npm install`
